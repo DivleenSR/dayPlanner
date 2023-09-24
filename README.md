@@ -1,2 +1,2 @@
 # dayPlanner
-A mobile application in Flutter
+A mobile application in Flutter.
